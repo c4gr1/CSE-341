@@ -1,0 +1,4 @@
+flex gpp_lexer.l
+gcc gpp_lexer.c or gcc lex.yy.c
+./a.out or ./a.out <deneme.txt
+
